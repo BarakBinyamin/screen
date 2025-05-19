@@ -1,0 +1,27 @@
+{
+  "name": "screen",
+  "version": "1.0.0",
+  "description": "jasons calculator screen",
+  "homepage": "https://github.com/BarakBinyamin/screen#readme",
+  "bugs": {
+    "url": "https://github.com/BarakBinyamin/screen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarakBinyamin/screen.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serialport": "^13.0.0"
+  }
+}
